@@ -1,0 +1,218 @@
+:root {
+    --color-primary: #1A3636;      /* Cor primária */
+    --color-secondary: #40534C;    /* Cor secundária */
+    --color-tertiary: #677D6A;     /* Cor terciária */
+    --color-button: #1A3636;       /* Cor do botão */
+    --color-button-hover: #677D6A; /* Cor do botão ao passar o mouse */
+    --color-text: #D6BD98;         /* Cor do texto */
+    --color-white: #FFFFFF;        /* Cor branca */
+}
+
+/* Estilos gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: var(--color-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.header-banner {
+    flex: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0 0;
+    
+    /* Definindo a imagem de fundo */
+    background-size: contain;
+    background-position: Center;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+/* Seção de entrada*/
+.input-section {
+    flex: 50%;
+    background-color: var(--color-secondary);
+    border: 1px solid var(--color-white);
+    border-radius: 64px 64px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+/* Títulos */
+.main-title {
+    font-size: 48px;
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+    color: var(--color-white);
+}
+
+.section-title {
+    font-family: "Inter", serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--color-text);  /* Cor terciária para suavizar */
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Contêineres de entrada e botão */
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+.input-name {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid var(--color-tertiary);  /* Bordas com a cor terciária */
+    border-radius: 25px 0 0 25px;
+    font-size: 16px;
+}
+
+.button-container {
+    width: 300px;
+    justify-content: center;
+}
+
+/* Estilos de entrada de texto */
+.input-title {
+    flex: 1;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid var(--color-secondary);  /* Borda com a cor secundária */
+    border-right: none;
+    border-radius: 25px 0 0 25px;
+    font-family: "Merriweather", serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilos de botão */
+button {
+    padding: 15px 30px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    border: 2px solid var(--color-white);   /* Bordas brancas para destacar */
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.button-add {
+    background-color: var(--color-tertiary);
+    color: var(--color-text);
+    border-radius: 0 25px 25px 0;
+}
+
+.button-add:hover {
+    background-color: var(--color-primary);
+}
+
+/* Funcionalidade de remover */
+.button-remove {
+    font-size: 12px;
+    padding: 2px 5px;
+    cursor: pointer;
+    margin-top: 3px;
+    margin-right: 5px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+    background-color: var(--color-tertiary);
+    color: var(--color-white);
+    border: 1px solid var(--color-tertiary);
+}
+
+/* Ajustes para a lista (exibir na horizontal e centralizar) */
+ul {
+    list-style-type: none;
+    color: var(--color-text);
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    margin: 20px 0;
+    display: flex;  
+    flex-wrap: wrap;  
+    gap: 3px;
+    justify-content: center; 
+    padding: 0;
+    width: 100%;
+}
+
+/* Ajuste nos itens da lista */
+ul li {
+    background-color: var(--color-secondary);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: var(--color-white);
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.result-list {
+    margin-top: 15px;
+    color: #E9EFEC;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Botão de sortear título */
+.button-draw {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 16px;
+}
+
+.button-draw img {
+    margin-right: 40px;
+}
+
+.button-draw:hover {
+    background-color: var(--color-button-hover);
+}
+
+/* Ajustes para telas menores */
+@media (max-width: 768px) {
+    .input-section {
+        flex: 80%;
+        padding: 15px;
+    }
+}
+
+/* Ajuste para telas muito pequenas (dispositivos móveis em modo retrato) */
+@media (max-width: 480px) {
+    .input-section {
+        flex: 100%;
+        padding: 15px;
+    }
+}
