@@ -67,7 +67,7 @@ Você pode acessar o projeto online clicando no link abaixo:
 
 ## 💜 Créditos e Agradecimentos
 
-Quero agradecer à **Alura** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<a href="https://www.oracle.com/br/education/oracle-next-education/">ONE</a>**.
+Quero agradecer à **Alura** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<a href="https://www.oracle.com/br/education/oracle-next-education/">ONE - Oracle Next Education</a>**.
 
 # 👩🏻‍💻 Autora
 
