@@ -53,7 +53,7 @@ Este projeto consiste em um jogo interativo de **Amigo Secreto**, onde os usuár
 
 ## 🏅 Certificação
 
-Fui reconhecida com a seguinte Badge pelo programa <Hello, ONE!> da Alura + Oracle:
+Fui reconhecida com a seguinte Badge pelo programa ONE (Oracle Next Education), uma iniciativa da Alura Latam em parceria com a Oracle:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f3f492c-dd14-46aa-9a62-4d4ad3ded31d" alt="Badge Oracle Next Education" width="300">
@@ -67,7 +67,7 @@ Você pode acessar o projeto online clicando no link abaixo:
 
 ## 💜 Créditos e Agradecimentos
 
-Quero agradecer à **Alura** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<a href="https://www.oracle.com/br/education/oracle-next-education/">ONE - Oracle Next Education</a>**.
+Quero agradecer à **Alura Latam** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<a href="https://www.oracle.com/br/education/oracle-next-education/">ONE - Oracle Next Education</a>**.
 
 # 👩🏻‍💻 Autora
 
