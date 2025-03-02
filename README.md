@@ -71,7 +71,7 @@ Quero agradecer à **Alura Latam** e à **Oracle** pelo conhecimento compartilha
 
 ## 🔍 Curiosidade
 
-Sabiam que em **27 de fevereiro** é celebrado o **Dia de Pokémon**? 🎮  
+Em **27 de fevereiro** é celebrado o **Dia de Pokémon**. 🎮  
 A tradição começou em **1996** com o lançamento dos primeiros jogos de Pokémon no Japão. Desde então, fãs ao redor do mundo comemoram essa data especial, relembrando momentos icônicos da franquia! 🔥⚡
 
 # 👩🏻‍💻 Autora
