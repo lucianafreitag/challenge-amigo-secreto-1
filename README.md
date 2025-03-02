@@ -61,7 +61,7 @@ Fui reconhecida com a seguinte Badge pelo programa ONE (Oracle Next Education), 
 
 ## 🌍 Acesse o Projeto
 
-Você pode acessar o projeto online clicando no link abaixo:
+Você pode acessar o projeto on-line clicando no link abaixo:
 
 👉 [Jogo Amigo Secreto](https://josianecmagalhaes.github.io/challenge-amigo-secreto/) 
 
