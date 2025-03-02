@@ -69,6 +69,11 @@ Você pode acessar o projeto online clicando no link abaixo:
 
 Quero agradecer à **Alura Latam** e à **Oracle** pelo conhecimento compartilhado e pelas oportunidades proporcionadas por meio do programa **<a href="https://www.oracle.com/br/education/oracle-next-education/">ONE - Oracle Next Education</a>**.
 
+## 🔍 Curiosidade
+
+Sabiam que em **27 de fevereiro** é celebrado o **Dia de Pokémon**? 🎮  
+A tradição começou em **1996** com o lançamento dos primeiros jogos de Pokémon no Japão. Desde então, fãs ao redor do mundo comemoram essa data especial, relembrando momentos icônicos da franquia! 🔥⚡
+
 # 👩🏻‍💻 Autora
 
 | [<img loading="lazy" src="https://github.com/JosianeCMagalhaes.png" width=115><br><sub>Josiane Magalhães</sub>](https://github.com/JosianeCMagalhaes) |
