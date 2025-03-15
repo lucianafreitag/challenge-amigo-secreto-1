@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #1A3636;      /* Cor primária */
-    --color-secondary: #40534C;    /* Cor secundária */
-    --color-tertiary: #677D6A;     /* Cor terciária */
-    --color-button: #1A3636;       /* Cor do botão */
-    --color-button-hover: #677D6A; /* Cor do botão ao passar o mouse */
-    --color-text: #D6BD98;         /* Cor do texto */
-    --color-white: #FFFFFF;        /* Cor branca */
+    --color-primary: #0A2F1E;      /* Cor primária */
+    --color-secondary: #172214;    /* Cor secundária */
+    --color-tertiary: #172214;     /* Cor terciária */
+    --color-button: #0A2F1E;       /* Cor do botão */
+    --color-button-hover: #172214; /* Cor do botão ao passar o mouse */
+    --color-text: #71a842;         /* Cor do texto */
+    --color-white: #FFFF;        /* Cor branca */
 }
 
 /* Estilos gerais */
@@ -109,7 +109,7 @@ body {
     border: 2px solid var(--color-secondary);  /* Borda com a cor secundária */
     border-right: none;
     border-radius: 25px 0 0 25px;
-    font-family: "Merriweather", serif;
+    font-family: "Merriweather", kbreindeergames;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
@@ -176,7 +176,7 @@ ul li {
 
 .result-list {
     margin-top: 15px;
-    color: #E9EFEC;
+    color: #880D0B;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -194,7 +194,7 @@ ul li {
 }
 
 .button-draw img {
-    margin-right: 40px;
+    margin-right: 20px;
 }
 
 .button-draw:hover {
